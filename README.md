@@ -1,0 +1,1 @@
+# kurgol-dependabot-security-alerts
